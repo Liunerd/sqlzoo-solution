@@ -1,1 +1,3 @@
-# sqlzoo-solution
+﻿# sqlzoo-solution
+
+Author: @Liunerd
